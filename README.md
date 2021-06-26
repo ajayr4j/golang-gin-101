@@ -35,6 +35,6 @@
  Visit localhost:8080/ping
  
  ### If you want to learn the API building further, I followed the below mentioned playlist and updated the same as versions here, check it out.
- 	- https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w
+ 	- [link text](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w "Pragmatic Reviews Playlist")
  
  
