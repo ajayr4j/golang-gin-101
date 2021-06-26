@@ -2,7 +2,8 @@
 
 ## Installation
 
-	- Install: https://tecadmin.net/install-go-on-ubuntu/
+	- https://tecadmin.net/install-go-on-ubuntu/
+	- go get -u github.com/gin-gonic/gin
 
 ## Initial Setup
 
